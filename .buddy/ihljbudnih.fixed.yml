@@ -1,0 +1,4 @@
+- pipeline: ihljbudnih
+  refs:
+  - refs/heads/master
+  on: CLICK
